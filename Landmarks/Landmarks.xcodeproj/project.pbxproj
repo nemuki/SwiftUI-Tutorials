@@ -18,6 +18,7 @@
 		27B75E272658C3F300DB5FD5 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E262658C3F300DB5FD5 /* ModelData.swift */; };
 		27B75E2E2658D20600DB5FD5 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */; };
 		27B75E302658DB4F00DB5FD5 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E2F2658DB4F00DB5FD5 /* LandmarkList.swift */; };
+		27B75E322658E14900DB5FD5 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E312658E14900DB5FD5 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		27B75E262658C3F300DB5FD5 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = SOURCE_ROOT; };
 		27B75E2F2658DB4F00DB5FD5 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		27B75E312658E14900DB5FD5 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				27B75E242658BE8800DB5FD5 /* Landmark.swift */,
+				27B75E312658E14900DB5FD5 /* LandmarkDetail.swift */,
 				27B75E262658C3F300DB5FD5 /* ModelData.swift */,
 			);
 			path = Model;
@@ -188,6 +191,7 @@
 				27B75E212658925100DB5FD5 /* MapView.swift in Sources */,
 				27B75E10265884A700DB5FD5 /* LandmarksApp.swift in Sources */,
 				27B75E302658DB4F00DB5FD5 /* LandmarkList.swift in Sources */,
+				27B75E322658E14900DB5FD5 /* LandmarkDetail.swift in Sources */,
 				27B75E1F265890E900DB5FD5 /* CircleImage.swift in Sources */,
 				27B75E252658BE8800DB5FD5 /* Landmark.swift in Sources */,
 				27B75E2E2658D20600DB5FD5 /* LandmarkRow.swift in Sources */,

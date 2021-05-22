@@ -12,6 +12,7 @@
 		27B75E14265884A700DB5FD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27B75E13265884A700DB5FD5 /* Assets.xcassets */; };
 		27B75E17265884A700DB5FD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27B75E16265884A700DB5FD5 /* Preview Assets.xcassets */; };
 		27B75E1F265890E900DB5FD5 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E1E265890E900DB5FD5 /* CircleImage.swift */; };
+		27B75E212658925100DB5FD5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E202658925100DB5FD5 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		27B75E16265884A700DB5FD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		27B75E18265884A700DB5FD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27B75E1E265890E900DB5FD5 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		27B75E202658925100DB5FD5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				27B75E11265884A700DB5FD5 /* ContentView.swift */,
 				27B75E13265884A700DB5FD5 /* Assets.xcassets */,
 				27B75E1E265890E900DB5FD5 /* CircleImage.swift */,
+				27B75E202658925100DB5FD5 /* MapView.swift */,
 				27B75E18265884A700DB5FD5 /* Info.plist */,
 				27B75E15265884A700DB5FD5 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27B75E12265884A700DB5FD5 /* ContentView.swift in Sources */,
+				27B75E212658925100DB5FD5 /* MapView.swift in Sources */,
 				27B75E10265884A700DB5FD5 /* LandmarksApp.swift in Sources */,
 				27B75E1F265890E900DB5FD5 /* CircleImage.swift in Sources */,
 			);

@@ -92,6 +92,7 @@
 			children = (
 				27B75E1E265890E900DB5FD5 /* CircleImage.swift */,
 				27B75E11265884A700DB5FD5 /* ContentView.swift */,
+				27B75E312658E14900DB5FD5 /* LandmarkDetail.swift */,
 				27B75E2F2658DB4F00DB5FD5 /* LandmarkList.swift */,
 				27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */,
 				27B75E202658925100DB5FD5 /* MapView.swift */,
@@ -103,7 +104,6 @@
 			isa = PBXGroup;
 			children = (
 				27B75E242658BE8800DB5FD5 /* Landmark.swift */,
-				27B75E312658E14900DB5FD5 /* LandmarkDetail.swift */,
 				27B75E262658C3F300DB5FD5 /* ModelData.swift */,
 			);
 			path = Model;

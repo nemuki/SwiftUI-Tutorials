@@ -10,7 +10,7 @@ import SwiftUI
 import CoreLocation
 
 // Cordableはデータファイル空構造にデータを簡単にロードできるようになる
-struct Landmark: Hashable, Codable {
+struct Landmark: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
     var park: String

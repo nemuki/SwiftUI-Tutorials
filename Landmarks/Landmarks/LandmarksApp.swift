@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// @mainはアプリのエントリポイント(開始点)を識別
 @main
 struct LandmarksApp: App {
     var body: some Scene {

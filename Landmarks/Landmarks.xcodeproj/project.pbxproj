@@ -16,6 +16,7 @@
 		27B75E232658BE7000DB5FD5 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 27B75E222658BE7000DB5FD5 /* landmarkData.json */; };
 		27B75E252658BE8800DB5FD5 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E242658BE8800DB5FD5 /* Landmark.swift */; };
 		27B75E272658C3F300DB5FD5 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E262658C3F300DB5FD5 /* ModelData.swift */; };
+		27B75E2E2658D20600DB5FD5 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		27B75E222658BE7000DB5FD5 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		27B75E242658BE8800DB5FD5 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		27B75E262658C3F300DB5FD5 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		27B75E282658C90100DB5FD5 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				27B75E2D2658D20600DB5FD5 /* LandmarkRow.swift */,
 				27B75E1E265890E900DB5FD5 /* CircleImage.swift */,
 				27B75E11265884A700DB5FD5 /* ContentView.swift */,
 				27B75E202658925100DB5FD5 /* MapView.swift */,
@@ -183,6 +186,7 @@
 				27B75E10265884A700DB5FD5 /* LandmarksApp.swift in Sources */,
 				27B75E1F265890E900DB5FD5 /* CircleImage.swift in Sources */,
 				27B75E252658BE8800DB5FD5 /* Landmark.swift in Sources */,
+				27B75E2E2658D20600DB5FD5 /* LandmarkRow.swift in Sources */,
 				27B75E272658C3F300DB5FD5 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

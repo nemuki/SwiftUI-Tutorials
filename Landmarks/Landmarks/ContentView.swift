@@ -10,8 +10,8 @@ import SwiftUI
 // Viewプロトコルに準拠した、ビューのコンテンツとレイアウトの記述
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Turtle Rock")
+            .font(.title)
     }
 }
 
